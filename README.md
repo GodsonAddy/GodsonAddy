@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GodsonAddy
+- 👋 Hi, I’m @GodsonAddy  https://godsonaddy.github.io/my-portfolio/
 - 👀 I’m interested in javascript(React, Vue)
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on any project that will improve the everyday life of man
